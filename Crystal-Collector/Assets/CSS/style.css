@@ -1,0 +1,52 @@
+/*font-family: 'Alfa Slab One', cursive;
+font-family: 'Ek Mukta', sans-serif;*/
+
+/* Backgrounds */
+body {
+	background-image: url("https://c4.wallpaperflare.com/wallpaper/315/952/991/thanos-infinity-gauntlet-wallpaper-preview.jpg");
+}
+
+.jumbotron {
+	background-color: transparent;
+}
+
+#gameSection, #scoreSection {
+	background-color: whitesmoke;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#buttonSection {
+
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+/* Fonts */
+
+h1, h2, h3 {
+	font-family: 'Alfa Slab One', cursive;
+	color:black;
+}
+
+p {
+	color:whitesmoke;
+	font-family: 'Ek Mukta', sans-serif;
+}
+
+.numberBox {
+	color: black;
+	font-size: 100px;
+	margin: 0px;
+}
+
+/* images for buttons */
+.icons {
+	display:inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
